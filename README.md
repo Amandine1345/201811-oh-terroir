@@ -14,21 +14,6 @@ de mettre en pratique les différentes notions vues pendant le 2ème mois de la 
 
 ![Oh Terroir](https://drive.google.com/uc?export=view&id=1jfyHSQEG9bvdQh7m40Wqk7xGQ6wBJKwi)
 
-## Installation
-
-1. Cloner le dépôt GitHub.
-2. Taper la commande `composer install`.
-3. Créer *app/db.php* à partir de *app/db.php.dist* et ajouter les paramètres de votre base.
-```php
-define('APP_DB_HOST', 'your_db_host');
-define('APP_DB_NAME', 'your_db_name');
-define('APP_DB_USER', 'your_db_user_wich_is_not_root');
-define('APP_DB_PWD', 'your_db_password');
-```
-4. Créer une nouvelle base sur le serveur local et importer le fichier `data/201810-oh-terroir.sql`.
-5. Lancer votre serveur local `php -S localhost:8000 -t public/`.
-6. Lancer [http://localhost:8000/](http://localhost:8000/), depuis votre navigateur.
-
 ### Langages
 * HTML 5
 * CSS 3
