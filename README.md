@@ -1,4 +1,4 @@
-# Hackathon Halloween
+# Oh Terroir
 
 Refonte du site ohterroir-orleans.fr.
 
@@ -12,7 +12,7 @@ de mettre en pratique les différentes notions vues pendant le 2ème mois de la 
 
 * Durée du projet : 5 semaines
 
-![Le Bonbondex](https://drive.google.com/uc?export=view&id=13NCEzvkrNJd_LfRARFuLReqEBu138pHm)
+![Oh Terroir](https://drive.google.com/uc?export=view&id=1jfyHSQEG9bvdQh7m40Wqk7xGQ6wBJKwi)
 
 ## Installation
 
