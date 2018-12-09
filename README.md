@@ -12,7 +12,7 @@ de mettre en pratique les différentes notions vues pendant le 2ème mois de la 
 
 * Durée du projet : 5 semaines
 
-![Oh Terroir](https://drive.google.com/uc?export=view&id=1jfyHSQEG9bvdQh7m40Wqk7xGQ6wBJKwi)
+![Oh Terroir](https://drive.google.com/uc?export=view&id=1GyFwDTHy7on1klBEdNYo4HmE7nXyPy06)
 
 ### Langages
 * HTML 5
@@ -21,15 +21,15 @@ de mettre en pratique les différentes notions vues pendant le 2ème mois de la 
 * PHP 7
 
 ### Méthodologie
-* Scrum / Agile : sprint planning, daily project, backlog de produit, users stories.
+* Scrum / Agile
 
-### Versionning
-* Git
+### Versioning
+* Git / Git Workflow
 
-### Réalisé avec
+### Outils
 * PhpStorm
  
-#### Contributeurs
+### Contributeurs
 
 * Hélène Bloch - [ln-45](https://github.com/ln-45)
 * Antony Jonas - [accuratecopy](https://github.com/accuratecopy)
